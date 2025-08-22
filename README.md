@@ -33,8 +33,8 @@ A simple **MERN-stack based Rating Application** where users can rate stores (1‚
 4. **Run the Server**
 
 ## ü§ù Contribution
-**Fork the project**
-**Create a feature branch (git checkout -b feature-name)**
-**Commit your changes (git commit -m "Added new feature")**
-**Push to your branch (git push origin feature-name)**
-**Open a Pull Request**
+- **Fork the project**
+- **Create a feature branch (git checkout -b feature-name)**
+- **Commit your changes (git commit -m "Added new feature")**
+- **Push to your branch (git push origin feature-name)**
+- **Open a Pull Request**
